@@ -1,2 +1,0 @@
-# MyProGamerQuiz
-MyProGamerQuiz
